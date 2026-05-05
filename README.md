@@ -4,7 +4,7 @@ NAScan is a lightweight subnet analyzer that detects alive hosts, resolves hostn
 **How to download:**
 1. Clone the repository :
    git clone https://github.com/AnonGuy098/nascan.git
-   cd nascan
+   cd NAScan
 
 2. Run the python file :
    python3 nascan.py
