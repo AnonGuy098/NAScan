@@ -1,0 +1,10 @@
+CHANGELOG
+
+All changes to NAScan will be mentioned here:
+
+1.0.0: 2026-5-5
+Added:
+- Initial release of NAScan
+- MAC Address lookup
+- Port Analysis
+- Alive host detection
