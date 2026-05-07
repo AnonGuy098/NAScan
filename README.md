@@ -39,8 +39,6 @@ Example:
 
 
 **License:**
--This is currently active under the MIT license. You may copy, edit, distribute, publish, modify, merge, sublicense and sell the software. 
--The only requirement is that original copyright notice and license text  must be included in any and all copies or substancial portions of the software.
--The software is provided “as is”, without warranty — meaning the author isn’t responsible for any issues, damages, or liabilities that arise from using it.
+- This project is active under the GPL GNU License. Kindly read the license file to know more.
 
 **This project is only for educational purposes and is not meant to cause harm to any individuals, organizations or groups. Any damage to such cannot hold me, as a creator responsible for such actions**. 
